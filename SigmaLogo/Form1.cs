@@ -39,6 +39,6 @@ namespace SigmaLogo
             g.RotateTransform(180);
             g.DrawString("Olypics 2024", drawFont, blackBrush, 0, 0);
             g.ResetTransform();
-        }
+        } 
     }
 }
